@@ -1,5 +1,5 @@
-#Comparative Study: Japanese Manga vs. South Korean Webtoon Market (2015-2024)
-#日本傳統漫畫與韓國條漫市場之比較研究 (2015-2024)
+# Comparative Study: Japanese Manga vs. South Korean Webtoon Market (2015-2024)
+# 日本傳統漫畫與韓國條漫市場之比較研究 (2015-2024)
 
 ## Abstract
 The research aims to analyze the market dynamics between traditional Japanese Manga and the rising South Korean Webtoon industry. By collecting annual sales data from 2015 to 2024, I performed Data Cleaning, Exploratory Data Analysis (EDA), and Trend Visualization using Python to understand the interaction between these two media formats.<br/>
