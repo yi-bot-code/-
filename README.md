@@ -9,7 +9,7 @@ The research aims to analyze the market dynamics between traditional Japanese Ma
 Language: **Python**
 Libraries: Pandas (Data cleaning)<br/>
            Mataplotlib (Data visualization)<br/>
-           Scipy/Statmodels (Pearson Correlation& Linear Regression)
+           Scipy/Statsmodels (Pearson Correlation& Linear Regression)
            
 
 ## Key Finding
